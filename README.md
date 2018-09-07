@@ -1,4 +1,4 @@
-Bank Summary (Still under development)
+# Bank Summary (Still under development)
 
 Android App to calculate the bank details
 
